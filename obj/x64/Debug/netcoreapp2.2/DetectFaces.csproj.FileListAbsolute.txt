@@ -1,0 +1,13 @@
+E:\Jakub\Documents\Programowanie\AspDotNet\AspDotNetCore\photoFaceRecognition\detectfaces\bin\x64\Debug\netcoreapp2.2\DlibDotNetNative.dll
+E:\Jakub\Documents\Programowanie\AspDotNet\AspDotNetCore\photoFaceRecognition\detectfaces\bin\x64\Debug\netcoreapp2.2\DlibDotNetNativeDnn.dll
+E:\Jakub\Documents\Programowanie\AspDotNet\AspDotNetCore\photoFaceRecognition\detectfaces\bin\x64\Debug\netcoreapp2.2\DetectFaces.deps.json
+E:\Jakub\Documents\Programowanie\AspDotNet\AspDotNetCore\photoFaceRecognition\detectfaces\bin\x64\Debug\netcoreapp2.2\DetectFaces.runtimeconfig.json
+E:\Jakub\Documents\Programowanie\AspDotNet\AspDotNetCore\photoFaceRecognition\detectfaces\bin\x64\Debug\netcoreapp2.2\DetectFaces.runtimeconfig.dev.json
+E:\Jakub\Documents\Programowanie\AspDotNet\AspDotNetCore\photoFaceRecognition\detectfaces\bin\x64\Debug\netcoreapp2.2\DetectFaces.dll
+E:\Jakub\Documents\Programowanie\AspDotNet\AspDotNetCore\photoFaceRecognition\detectfaces\bin\x64\Debug\netcoreapp2.2\DetectFaces.pdb
+E:\Jakub\Documents\Programowanie\AspDotNet\AspDotNetCore\photoFaceRecognition\detectfaces\obj\x64\Debug\netcoreapp2.2\DetectFaces.csprojAssemblyReference.cache
+E:\Jakub\Documents\Programowanie\AspDotNet\AspDotNetCore\photoFaceRecognition\detectfaces\obj\x64\Debug\netcoreapp2.2\DetectFaces.csproj.CoreCompileInputs.cache
+E:\Jakub\Documents\Programowanie\AspDotNet\AspDotNetCore\photoFaceRecognition\detectfaces\obj\x64\Debug\netcoreapp2.2\DetectFaces.AssemblyInfoInputs.cache
+E:\Jakub\Documents\Programowanie\AspDotNet\AspDotNetCore\photoFaceRecognition\detectfaces\obj\x64\Debug\netcoreapp2.2\DetectFaces.AssemblyInfo.cs
+E:\Jakub\Documents\Programowanie\AspDotNet\AspDotNetCore\photoFaceRecognition\detectfaces\obj\x64\Debug\netcoreapp2.2\DetectFaces.dll
+E:\Jakub\Documents\Programowanie\AspDotNet\AspDotNetCore\photoFaceRecognition\detectfaces\obj\x64\Debug\netcoreapp2.2\DetectFaces.pdb
